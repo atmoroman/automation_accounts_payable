@@ -1,0 +1,32 @@
+{
+  "invoice_number": "FV-2026-1015",
+  "invoice_date": "2026-03-24",
+  "due_date": "2026-05-08",
+  "supplier_name": "Vistula Print Sp. z o.o.",
+  "supplier_vat_id": "PL5260001246",
+  "buyer_name": "SAP Demo Company Ireland Ltd",
+  "currency": "PLN",
+  "subtotal": 2290.0,
+  "tax_amount": 526.7,
+  "total_amount": 2816.7,
+  "line_items": [
+    {
+      "description": "Brochures A5, 1000 pcs",
+      "quantity": 3,
+      "unit_price": 610.0,
+      "total": 1830.0
+    },
+    {
+      "description": "Business cards, 500 pcs",
+      "quantity": 1,
+      "unit_price": 120.0,
+      "total": 120.0
+    },
+    {
+      "description": "Roll-up banner",
+      "quantity": 1,
+      "unit_price": 340.0,
+      "total": 340.0
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "invoice_number": "INV-2026-1002",
+  "invoice_date": "2026-04-23",
+  "due_date": "2026-05-23",
+  "supplier_name": "Iberia Catering S.L.",
+  "supplier_vat_id": "ESB12345678",
+  "buyer_name": "Fabrikam Retail BV",
+  "currency": "EUR",
+  "subtotal": 684.0,
+  "tax_amount": 157.32,
+  "total_amount": 841.32,
+  "line_items": [
+    {
+      "description": "Event staff, per hour",
+      "quantity": 20,
+      "unit_price": 28.0,
+      "total": 560.0
+    },
+    {
+      "description": "Coffee break, per person",
+      "quantity": 20,
+      "unit_price": 6.2,
+      "total": 124.0
+    }
+  ]
+}

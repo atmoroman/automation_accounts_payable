@@ -1,0 +1,26 @@
+{
+  "invoice_number": "INV-2026-1019",
+  "invoice_date": "2026-02-02",
+  "due_date": "2026-02-16",
+  "supplier_name": "Alpine IT Consulting AG",
+  "supplier_vat_id": "CHE-123.456.789",
+  "buyer_name": "Fabrikam Retail BV",
+  "currency": "CHF",
+  "subtotal": 7130.0,
+  "tax_amount": 577.53,
+  "total_amount": 7707.53,
+  "line_items": [
+    {
+      "description": "SAP S/4HANA consulting, per day",
+      "quantity": 5,
+      "unit_price": 1350.0,
+      "total": 6750.0
+    },
+    {
+      "description": "Travel expenses (flat)",
+      "quantity": 1,
+      "unit_price": 380.0,
+      "total": 380.0
+    }
+  ]
+}

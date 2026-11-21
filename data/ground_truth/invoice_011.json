@@ -1,0 +1,20 @@
+{
+  "invoice_number": "BILL-2026-1011",
+  "invoice_date": "2026-07-05",
+  "due_date": "2026-07-19",
+  "supplier_name": "Iberia Catering S.L.",
+  "supplier_vat_id": "ESB12345678",
+  "buyer_name": "SAP Demo Company Ireland Ltd",
+  "currency": "EUR",
+  "subtotal": 92.5,
+  "tax_amount": 21.28,
+  "total_amount": 113.78,
+  "line_items": [
+    {
+      "description": "Lunch buffet, per person",
+      "quantity": 5,
+      "unit_price": 18.5,
+      "total": 92.5
+    }
+  ]
+}

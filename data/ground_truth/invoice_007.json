@@ -1,0 +1,20 @@
+{
+  "invoice_number": "RE-2026-1007",
+  "invoice_date": "2026-07-06",
+  "due_date": "2026-08-20",
+  "supplier_name": "Danube Facility Management Kft",
+  "supplier_vat_id": "HU12345678",
+  "buyer_name": "Fabrikam Retail BV",
+  "currency": "EUR",
+  "subtotal": 900.0,
+  "tax_amount": 207.0,
+  "total_amount": 1107.0,
+  "line_items": [
+    {
+      "description": "HVAC maintenance visit",
+      "quantity": 2,
+      "unit_price": 450.0,
+      "total": 900.0
+    }
+  ]
+}

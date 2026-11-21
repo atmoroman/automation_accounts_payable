@@ -1,0 +1,26 @@
+{
+  "invoice_number": "BILL-2026-1004",
+  "invoice_date": "2026-07-03",
+  "due_date": "2026-07-17",
+  "supplier_name": "Celtic Cloud Services Ltd",
+  "supplier_vat_id": "IE6388047V",
+  "buyer_name": "Contoso Manufacturing GmbH",
+  "currency": "EUR",
+  "subtotal": 4290.0,
+  "tax_amount": 986.7,
+  "total_amount": 5276.7,
+  "line_items": [
+    {
+      "description": "Premium support plan",
+      "quantity": 20,
+      "unit_price": 199.0,
+      "total": 3980.0
+    },
+    {
+      "description": "Managed database, monthly",
+      "quantity": 1,
+      "unit_price": 310.0,
+      "total": 310.0
+    }
+  ]
+}

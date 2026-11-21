@@ -1,0 +1,32 @@
+{
+  "invoice_number": "BILL-2026-1012",
+  "invoice_date": "2026-03-20",
+  "due_date": "2026-05-04",
+  "supplier_name": "Celtic Cloud Services Ltd",
+  "supplier_vat_id": "IE6388047V",
+  "buyer_name": "Fabrikam Retail BV",
+  "currency": "EUR",
+  "subtotal": 3185.0,
+  "tax_amount": 732.55,
+  "total_amount": 3917.55,
+  "line_items": [
+    {
+      "description": "Cloud VM hosting, monthly",
+      "quantity": 3,
+      "unit_price": 420.0,
+      "total": 1260.0
+    },
+    {
+      "description": "Managed database, monthly",
+      "quantity": 3,
+      "unit_price": 310.0,
+      "total": 930.0
+    },
+    {
+      "description": "Premium support plan",
+      "quantity": 5,
+      "unit_price": 199.0,
+      "total": 995.0
+    }
+  ]
+}

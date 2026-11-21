@@ -1,0 +1,26 @@
+{
+  "invoice_number": "FV-2026-1009",
+  "invoice_date": "2026-01-17",
+  "due_date": "2026-02-16",
+  "supplier_name": "Alpine IT Consulting AG",
+  "supplier_vat_id": "CHE-123.456.789",
+  "buyer_name": "Fabrikam Retail BV",
+  "currency": "CHF",
+  "subtotal": 2780.0,
+  "tax_amount": 225.18,
+  "total_amount": 3005.18,
+  "line_items": [
+    {
+      "description": "Solution architecture workshop",
+      "quantity": 1,
+      "unit_price": 2400.0,
+      "total": 2400.0
+    },
+    {
+      "description": "Travel expenses (flat)",
+      "quantity": 1,
+      "unit_price": 380.0,
+      "total": 380.0
+    }
+  ]
+}

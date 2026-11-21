@@ -1,0 +1,32 @@
+{
+  "invoice_number": "FV-2026-1010",
+  "invoice_date": "2026-07-22",
+  "due_date": "2026-09-20",
+  "supplier_name": "Danube Facility Management Kft",
+  "supplier_vat_id": "HU12345678",
+  "buyer_name": "Fabrikam Retail BV",
+  "currency": "EUR",
+  "subtotal": 4030.0,
+  "tax_amount": 926.9,
+  "total_amount": 4956.9,
+  "line_items": [
+    {
+      "description": "HVAC maintenance visit",
+      "quantity": 1,
+      "unit_price": 450.0,
+      "total": 450.0
+    },
+    {
+      "description": "Office cleaning, monthly",
+      "quantity": 1,
+      "unit_price": 980.0,
+      "total": 980.0
+    },
+    {
+      "description": "Window cleaning",
+      "quantity": 10,
+      "unit_price": 260.0,
+      "total": 2600.0
+    }
+  ]
+}

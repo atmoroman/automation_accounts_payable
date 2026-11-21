@@ -1,0 +1,20 @@
+{
+  "invoice_number": "INV-2026-1006",
+  "invoice_date": "2026-05-29",
+  "due_date": "2026-07-28",
+  "supplier_name": "Alpine IT Consulting AG",
+  "supplier_vat_id": "CHE-123.456.789",
+  "buyer_name": "Contoso Manufacturing GmbH",
+  "currency": "CHF",
+  "subtotal": 27000.0,
+  "tax_amount": 2187.0,
+  "total_amount": 29187.0,
+  "line_items": [
+    {
+      "description": "SAP S/4HANA consulting, per day",
+      "quantity": 20,
+      "unit_price": 1350.0,
+      "total": 27000.0
+    }
+  ]
+}

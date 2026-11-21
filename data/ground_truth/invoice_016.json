@@ -1,0 +1,32 @@
+{
+  "invoice_number": "RE-2026-1016",
+  "invoice_date": "2026-05-04",
+  "due_date": "2026-06-03",
+  "supplier_name": "Nordwind Office Supplies GmbH",
+  "supplier_vat_id": "DE811234567",
+  "buyer_name": "Fabrikam Retail BV",
+  "currency": "EUR",
+  "subtotal": 6317.99,
+  "tax_amount": 1453.14,
+  "total_amount": 7771.13,
+  "line_items": [
+    {
+      "description": "A4 copy paper, box of 5 reams",
+      "quantity": 20,
+      "unit_price": 24.9,
+      "total": 498.0
+    },
+    {
+      "description": "Desk lamp LED",
+      "quantity": 1,
+      "unit_price": 39.99,
+      "total": 39.99
+    },
+    {
+      "description": "Ergonomic office chair",
+      "quantity": 20,
+      "unit_price": 289.0,
+      "total": 5780.0
+    }
+  ]
+}

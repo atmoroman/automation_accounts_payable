@@ -1,0 +1,20 @@
+{
+  "invoice_number": "INV-2026-1001",
+  "invoice_date": "2026-02-17",
+  "due_date": "2026-03-19",
+  "supplier_name": "Nordwind Office Supplies GmbH",
+  "supplier_vat_id": "DE811234567",
+  "buyer_name": "Fabrikam Retail BV",
+  "currency": "EUR",
+  "subtotal": 1445.0,
+  "tax_amount": 332.35,
+  "total_amount": 1777.35,
+  "line_items": [
+    {
+      "description": "Ergonomic office chair",
+      "quantity": 5,
+      "unit_price": 289.0,
+      "total": 1445.0
+    }
+  ]
+}

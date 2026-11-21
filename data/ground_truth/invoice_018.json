@@ -1,0 +1,26 @@
+{
+  "invoice_number": "BILL-2026-1018",
+  "invoice_date": "2026-06-09",
+  "due_date": "2026-06-23",
+  "supplier_name": "Alpine IT Consulting AG",
+  "supplier_vat_id": "CHE-123.456.789",
+  "buyer_name": "SAP Demo Company Ireland Ltd",
+  "currency": "CHF",
+  "subtotal": 13140.0,
+  "tax_amount": 1064.34,
+  "total_amount": 14204.34,
+  "line_items": [
+    {
+      "description": "Travel expenses (flat)",
+      "quantity": 3,
+      "unit_price": 380.0,
+      "total": 1140.0
+    },
+    {
+      "description": "Solution architecture workshop",
+      "quantity": 5,
+      "unit_price": 2400.0,
+      "total": 12000.0
+    }
+  ]
+}

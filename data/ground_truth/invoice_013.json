@@ -1,0 +1,32 @@
+{
+  "invoice_number": "RE-2026-1013",
+  "invoice_date": "2026-02-28",
+  "due_date": "2026-04-29",
+  "supplier_name": "Nordwind Office Supplies GmbH",
+  "supplier_vat_id": "DE811234567",
+  "buyer_name": "SAP Demo Company Ireland Ltd",
+  "currency": "EUR",
+  "subtotal": 958.48,
+  "tax_amount": 220.45,
+  "total_amount": 1178.93,
+  "line_items": [
+    {
+      "description": "Whiteboard markers, set of 12",
+      "quantity": 1,
+      "unit_price": 11.5,
+      "total": 11.5
+    },
+    {
+      "description": "Desk lamp LED",
+      "quantity": 2,
+      "unit_price": 39.99,
+      "total": 79.98
+    },
+    {
+      "description": "Ergonomic office chair",
+      "quantity": 3,
+      "unit_price": 289.0,
+      "total": 867.0
+    }
+  ]
+}

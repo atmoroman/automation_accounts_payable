@@ -1,0 +1,26 @@
+{
+  "invoice_number": "INV-2026-1003",
+  "invoice_date": "2026-06-24",
+  "due_date": "2026-07-08",
+  "supplier_name": "Iberia Catering S.L.",
+  "supplier_vat_id": "ESB12345678",
+  "buyer_name": "Contoso Manufacturing GmbH",
+  "currency": "EUR",
+  "subtotal": 426.0,
+  "tax_amount": 97.98,
+  "total_amount": 523.98,
+  "line_items": [
+    {
+      "description": "Lunch buffet, per person",
+      "quantity": 20,
+      "unit_price": 18.5,
+      "total": 370.0
+    },
+    {
+      "description": "Event staff, per hour",
+      "quantity": 2,
+      "unit_price": 28.0,
+      "total": 56.0
+    }
+  ]
+}

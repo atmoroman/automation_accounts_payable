@@ -1,0 +1,20 @@
+{
+  "invoice_number": "FV-2026-1014",
+  "invoice_date": "2026-09-14",
+  "due_date": "2026-10-14",
+  "supplier_name": "Thames Logistics plc",
+  "supplier_vat_id": "GB123456789",
+  "buyer_name": "SAP Demo Company Ireland Ltd",
+  "currency": "GBP",
+  "subtotal": 14.0,
+  "tax_amount": 2.8,
+  "total_amount": 16.8,
+  "line_items": [
+    {
+      "description": "Warehousing per pallet/week",
+      "quantity": 1,
+      "unit_price": 14.0,
+      "total": 14.0
+    }
+  ]
+}

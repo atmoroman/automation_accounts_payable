@@ -1,0 +1,32 @@
+{
+  "invoice_number": "RE-2026-1008",
+  "invoice_date": "2026-03-29",
+  "due_date": "2026-05-13",
+  "supplier_name": "Celtic Cloud Services Ltd",
+  "supplier_vat_id": "IE6388047V",
+  "buyer_name": "SAP Demo Company Ireland Ltd",
+  "currency": "EUR",
+  "subtotal": 2477.0,
+  "tax_amount": 569.71,
+  "total_amount": 3046.71,
+  "line_items": [
+    {
+      "description": "Premium support plan",
+      "quantity": 3,
+      "unit_price": 199.0,
+      "total": 597.0
+    },
+    {
+      "description": "Cloud VM hosting, monthly",
+      "quantity": 3,
+      "unit_price": 420.0,
+      "total": 1260.0
+    },
+    {
+      "description": "Managed database, monthly",
+      "quantity": 2,
+      "unit_price": 310.0,
+      "total": 620.0
+    }
+  ]
+}
